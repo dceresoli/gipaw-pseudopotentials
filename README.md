@@ -1,2 +1,4 @@
-# gipaw-pseudopotentials
-GIPAW and other pseudopotentials
+# Gipaw (and other) pseudopotentials
+blah blah
+
+
