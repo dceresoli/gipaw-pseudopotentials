@@ -1,0 +1,1936 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="778.79156"
+   height="423.58633"
+   viewBox="0 0 778.79156 423.58633"
+   id="svg5929"
+   version="1.1"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Periodic_table.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     id="namedview404"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.1004228"
+     inkscape:cx="303.06533"
+     inkscape:cy="211.79316"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5929"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     fit-margin-left="5"
+     fit-margin-top="5"
+     fit-margin-bottom="5"
+     fit-margin-right="5"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     showborder="false"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata6730">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6728" />
+  <path
+     style="fill:#ff99cc;"
+     id="path5933"
+     d="m 137.29158,319.36622 v -36 h 36 v 36 z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffbfff;"
+     id="path5935"
+     d="m 137.29158,279.36622 v -36 h 36 v 36 z"
+     inkscape:connector-curvature="0" />
+  <g
+     transform="translate(377.29158,319.36622)"
+     id="unknown_class"
+     style="fill:#e8e8e8;stroke:#000000;stroke-width:1;">
+    <path
+       d="M 0,0 V -36 H 36 V 0 Z"
+       id="path5940"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 40,0 V -36 H 76 V 0 Z"
+       id="path5942"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 80,0 v -36 h 36 V 0 Z"
+       id="path5944"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 160,0 v -36 h 36 V 0 Z"
+       id="path5946"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 200,0 v -36 h 36 V 0 Z"
+       id="path5948"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 240,0 v -36 h 36 V 0 Z"
+       id="path5950"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 280,0 v -36 h 36 V 0 Z"
+       id="path5952"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 320,0 v -36 h 36 V 0 Z"
+       id="path5954"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 360,0 v -36 h 36 V 0 Z"
+       id="path5956"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="other_nonmetals"
+     style="fill:#a0ffa0;stroke:#000000;stroke-width:1;"
+     transform="translate(-6.7084228,-67.633779)">
+    <path
+       d="m 64,147 v -36 h 36 v 36 z"
+       id="path5959"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 664,267 v -36 h 36 v 36 z"
+       id="path5961"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 624,227 v -36 h 36 v 36 z"
+       id="path5963"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 664,227 v -36 h 36 v 36 z"
+       id="path5965"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 584,187 v -36 h 36 v 36 z"
+       id="path5967"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 624,187 v -36 h 36 v 36 z"
+       id="path5969"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 664,187 v -36 h 36 v 36 z"
+       id="path5971"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="translate(57.291577,-67.633779)"
+     id="alkali_metals"
+     style="fill:#ff6666;stroke:#000000;stroke-width:1;">
+    <path
+       d="m 0,387 v -36 h 36 v 36 z"
+       id="path5974"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 0,347 v -36 h 36 v 36 z"
+       id="path5976"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 0,267 v -36 h 36 v 36 z"
+       id="path5978"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 0,227 v -36 h 36 v 36 z"
+       id="path5980"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 0,187 v -36 h 36 v 36 z"
+       id="path5982"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 0,307 v -36 h 36 v 36 z"
+       id="path5984"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="translate(97.291577,119.36622)"
+     id="alkali_earth_metals"
+     style="fill:#ffdead;stroke:#000000;stroke-width:1;">
+    <path
+       d="M 0,0 V -36 H 36 V 0 Z"
+       id="path5987"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 0,40 V 4 h 36 v 36 z"
+       id="path5989"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 0,80 V 44 h 36 v 36 z"
+       id="path5991"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 0,120 V 84 h 36 v 36 z"
+       id="path5993"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 0,160 v -36 h 36 v 36 z"
+       id="path5995"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 0,200 v -36 h 36 v 36 z"
+       id="path5997"
+       inkscape:connector-curvature="0" />
+  </g>
+  <path
+     style="fill:#cccc99;stroke:#000000;stroke-width:1;"
+     id="path6000"
+     d="M 537.29158,119.36622 V 83.366221 h 36 v 35.999999 z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#cccc99;stroke:#000000;stroke-width:1;"
+     id="path6002"
+     d="m 577.29158,159.36622 v -36 h 36 v 36 z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#cccc99;stroke:#000000;stroke-width:1;"
+     id="path6004"
+     d="m 577.29158,199.36622 v -36 h 36 v 36 z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#cccc99;stroke:#000000;stroke-width:1;"
+     id="path6006"
+     d="m 617.29158,199.36622 v -36 h 36 v 36 z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#cccc99;stroke:#000000;stroke-width:1;"
+     id="path6008"
+     d="m 617.29158,239.36622 v -36 h 36 v 36 z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#cccc99;stroke:#000000;stroke-width:1;"
+     id="path6010"
+     d="m 657.29158,239.36622 v -36 h 36 v 36 z"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#cccccc;stroke:#000000;stroke-width:1;"
+     id="path6012"
+     d="m 657.29158,279.36622 v -36 h 36 v 36 z"
+     inkscape:connector-curvature="0" />
+  <g
+     transform="translate(697.29158,119.36622)"
+     id="halogens"
+     style="fill:#ffff99;stroke:#000000;stroke-width:1;">
+    <path
+       d="M 0,0 V -36 H 36 V 0 Z"
+       id="path6015"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 0,40 V 4 h 36 v 36 z"
+       id="path6017"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 0,80 V 44 h 36 v 36 z"
+       id="path6019"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 0,120 V 84 h 36 v 36 z"
+       id="path6021"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 0,160 v -36 h 36 v 36 z"
+       id="path6023"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="translate(737.29158,79.366221)"
+     id="noble_gases"
+     style="fill:#c0ffff;stroke:#000000;stroke-width:1;">
+    <path
+       d="M 0,0 V -36 H 36 V 0 Z"
+       id="path6026"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 0,40 V 4 h 36 v 36 z"
+       id="path6028"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 0,80 V 44 h 36 v 36 z"
+       id="path6030"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 0,120 V 84 h 36 v 36 z"
+       id="path6032"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 0,160 v -36 h 36 v 36 z"
+       id="path6034"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 0,200 v -36 h 36 v 36 z"
+       id="path6036"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="post-transition_metals"
+     style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1;"
+     transform="translate(-6.7084228,-67.633779)">
+    <path
+       d="m 544,227 v -36 h 36 v 36 z"
+       id="path6039"
+       style="fill:#cccccc;fill-opacity:1;"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 544,267 v -36 h 36 v 36 z"
+       id="path6041"
+       style="fill:#cccccc;fill-opacity:1;"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 544,307 v -36 h 36 v 36 z"
+       id="path6043"
+       style="fill:#cccccc;fill-opacity:1;"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 544,347 v -36 h 36 v 36 z"
+       id="path6045"
+       style="fill:#cccccc;fill-opacity:1;"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 584,307 v -36 h 36 v 36 z"
+       id="path6047"
+       style="fill:#cccccc;fill-opacity:1;"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 584,347 v -36 h 36 v 36 z"
+       id="path6049"
+       style="fill:#cccccc;fill-opacity:1;"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 624,347 v -36 h 36 v 36 z"
+       id="path6051"
+       style="fill:#cccccc;fill-opacity:1;"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="translate(177.29158,199.36622)"
+     id="transition_metals"
+     style="fill:#ffc0c0;stroke:#000000;stroke-width:1;">
+    <path
+       d="M 0,120 V 84 h 36 v 36 z"
+       id="path6054"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 40,120 V 84 h 36 v 36 z"
+       id="path6056"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 80,120 V 84 h 36 v 36 z"
+       id="path6058"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 120,120 V 84 h 36 v 36 z"
+       id="path6060"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 160,120 V 84 h 36 v 36 z"
+       id="path6062"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 320,120 V 84 h 36 v 36 z"
+       id="path6064"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 0,80 V 44 h 36 v 36 z"
+       id="path6066"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 40,80 V 44 h 36 v 36 z"
+       id="path6068"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 80,80 V 44 h 36 v 36 z"
+       id="path6070"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 120,80 V 44 h 36 v 36 z"
+       id="path6072"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 160,80 V 44 h 36 v 36 z"
+       id="path6074"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 200,80 V 44 h 36 v 36 z"
+       id="path6076"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 240,80 V 44 h 36 v 36 z"
+       id="path6078"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 280,80 V 44 h 36 v 36 z"
+       id="path6080"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 320,80 V 44 h 36 v 36 z"
+       id="path6082"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M -40,40 V 4 h 36 v 36 z"
+       id="path6084"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 0,40 V 4 h 36 v 36 z"
+       id="path6086"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 40,40 V 4 h 36 v 36 z"
+       id="path6088"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 80,40 V 4 h 36 v 36 z"
+       id="path6090"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 120,40 V 4 h 36 v 36 z"
+       id="path6092"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 160,40 V 4 h 36 v 36 z"
+       id="path6094"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 200,40 V 4 h 36 v 36 z"
+       id="path6096"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 240,40 V 4 h 36 v 36 z"
+       id="path6098"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 280,40 V 4 h 36 v 36 z"
+       id="path6100"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 320,40 V 4 h 36 v 36 z"
+       id="path6102"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M -40,0 V -36 H -4 V 0 Z"
+       id="path6104"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 0,0 V -36 H 36 V 0 Z"
+       id="path6106"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 40,0 V -36 H 76 V 0 Z"
+       id="path6108"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 80,0 v -36 h 36 V 0 Z"
+       id="path6110"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 120,0 v -36 h 36 V 0 Z"
+       id="path6112"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 160,0 v -36 h 36 V 0 Z"
+       id="path6114"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 200,0 v -36 h 36 V 0 Z"
+       id="path6116"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 240,0 v -36 h 36 V 0 Z"
+       id="path6118"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 280,0 v -36 h 36 V 0 Z"
+       id="path6120"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 320,0 v -36 h 36 V 0 Z"
+       id="path6122"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g5121"
+     transform="translate(3.9375195,0.18749744)">
+    <text
+       id="text6224"
+       y="66.178726"
+       x="31.354057"
+       style="font-size:16px;line-height:0%;font-family:'DejaVu Sans Light';text-anchor:middle;">1</text>
+    <text
+       id="text6226"
+       y="106.17873"
+       x="31.354057"
+       style="font-size:16px;line-height:0%;font-family:'DejaVu Sans Light';text-anchor:middle;">2</text>
+    <text
+       id="text6228"
+       y="146.17871"
+       x="31.354057"
+       style="font-size:16px;line-height:0%;font-family:'DejaVu Sans Light';text-anchor:middle;">3</text>
+    <text
+       id="text6230"
+       y="186.17871"
+       x="31.354057"
+       style="font-size:16px;line-height:0%;font-family:'DejaVu Sans Light';text-anchor:middle;">4</text>
+    <text
+       id="text6232"
+       y="226.17871"
+       x="31.354057"
+       style="font-size:16px;line-height:0%;font-family:'DejaVu Sans Light';text-anchor:middle;">5</text>
+    <text
+       id="text6234"
+       y="266.17871"
+       x="31.354057"
+       style="font-size:16px;line-height:0%;font-family:'DejaVu Sans Light';text-anchor:middle;">6</text>
+    <text
+       id="text6236"
+       y="306.17871"
+       x="31.354057"
+       style="font-size:16px;line-height:0%;font-family:'DejaVu Sans Light';text-anchor:middle;">7</text>
+  </g>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6240"
+     x="755.29156"
+     y="57.366222">2</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6242"
+     x="75.29158"
+     y="57.366222">1</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6244"
+     x="755.29156"
+     y="73.366226">He</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6246"
+     x="75.29158"
+     y="73.366226">H</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6248"
+     x="115.29156"
+     y="97.366226">4</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6250"
+     x="555.29156"
+     y="97.366226">5</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6252"
+     x="595.29156"
+     y="97.366226">6</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6254"
+     x="635.29156"
+     y="97.366226">7</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6256"
+     x="675.29156"
+     y="97.366226">8</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6258"
+     x="715.29156"
+     y="97.366226">9</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6260"
+     x="755.29156"
+     y="97.366226">10</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6262"
+     x="75.29158"
+     y="97.366226">3</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6264"
+     x="115.29156"
+     y="113.36623">Be</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6266"
+     x="555.29156"
+     y="113.36623">B</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6268"
+     x="595.29156"
+     y="113.36623">C</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6270"
+     x="635.29156"
+     y="113.36623">N</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6272"
+     x="675.29156"
+     y="113.36623">O</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6274"
+     x="715.29156"
+     y="113.36623">F</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6276"
+     x="755.29156"
+     y="113.36623">Ne</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6278"
+     x="75.29158"
+     y="113.36623">Li</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6280"
+     x="115.29156"
+     y="137.36623">12</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6282"
+     x="555.29156"
+     y="137.36623">13</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6284"
+     x="595.29156"
+     y="137.36623">14</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6286"
+     x="635.29156"
+     y="137.36623">15</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6288"
+     x="675.29156"
+     y="137.36623">16</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6290"
+     x="715.29156"
+     y="137.36623">17</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6292"
+     x="755.29156"
+     y="137.36623">18</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6294"
+     x="75.29158"
+     y="137.36623">11</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6296"
+     x="115.29156"
+     y="153.36621">Mg</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6298"
+     x="555.29156"
+     y="153.36621">Al</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6300"
+     x="595.29156"
+     y="153.36621">Si</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6302"
+     x="635.29156"
+     y="153.36621">P</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6304"
+     x="675.29156"
+     y="153.36621">S</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6306"
+     x="715.29156"
+     y="153.36621">Cl</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6308"
+     x="755.29156"
+     y="153.36621">Ar</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6310"
+     x="75.29158"
+     y="153.36621">Na</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6312"
+     x="115.29156"
+     y="177.36621">20</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6314"
+     x="155.29158"
+     y="177.36621">21</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6316"
+     x="195.29158"
+     y="177.36621">22</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6318"
+     x="235.29158"
+     y="177.36621">23</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6320"
+     x="275.2916"
+     y="177.36621">24</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6322"
+     x="315.2916"
+     y="177.36621">25</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6324"
+     x="355.2916"
+     y="177.36621">26</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6326"
+     x="395.2916"
+     y="177.36621">27</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6328"
+     x="435.2916"
+     y="177.36621">28</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6330"
+     x="475.2916"
+     y="177.36621">29</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6332"
+     x="515.29156"
+     y="177.36621">30</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6334"
+     x="555.29156"
+     y="177.36621">31</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6336"
+     x="595.29156"
+     y="177.36621">32</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6338"
+     x="635.29156"
+     y="177.36621">33</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6340"
+     x="675.29156"
+     y="177.36621">34</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6342"
+     x="715.29156"
+     y="177.36621">35</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6344"
+     x="755.29156"
+     y="177.36621">36</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6346"
+     x="75.29158"
+     y="177.36621">19</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6348"
+     x="115.29156"
+     y="193.36621">Ca</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6350"
+     x="155.29158"
+     y="193.36621">Sc</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6352"
+     x="195.29158"
+     y="193.36621">Ti</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6354"
+     x="235.29158"
+     y="193.36621">V</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6356"
+     x="275.2916"
+     y="193.36621">Cr</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6358"
+     x="315.2916"
+     y="193.36621">Mn</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6360"
+     x="355.2916"
+     y="193.36621">Fe</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6362"
+     x="395.2916"
+     y="193.36621">Co</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6364"
+     x="435.2916"
+     y="193.36621">Ni</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6366"
+     x="475.2916"
+     y="193.36621">Cu</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6368"
+     x="515.29156"
+     y="193.36621">Zn</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6370"
+     x="555.29156"
+     y="193.36621">Ga</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6372"
+     x="595.29156"
+     y="193.36621">Ge</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6374"
+     x="635.29156"
+     y="193.36621">As</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6376"
+     x="675.29156"
+     y="193.36621">Se</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6378"
+     x="715.29156"
+     y="193.36621">Br</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6380"
+     x="755.29156"
+     y="193.36621">Kr</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6382"
+     x="75.29158"
+     y="193.36621">K</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6384"
+     x="115.29156"
+     y="217.36621">38</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6386"
+     x="155.29158"
+     y="217.36621">39</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6388"
+     x="195.29158"
+     y="217.36621">40</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6390"
+     x="235.29158"
+     y="217.36621">41</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6392"
+     x="275.2916"
+     y="217.36621">42</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6394"
+     x="315.2916"
+     y="217.36621">43</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6396"
+     x="355.2916"
+     y="217.36621">44</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6398"
+     x="395.2916"
+     y="217.36621">45</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6400"
+     x="435.2916"
+     y="217.36621">46</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6402"
+     x="475.2916"
+     y="217.36621">47</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6404"
+     x="515.29156"
+     y="217.36621">48</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6406"
+     x="555.29156"
+     y="217.36621">49</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6408"
+     x="595.29156"
+     y="217.36621">50</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6410"
+     x="635.29156"
+     y="217.36621">51</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6412"
+     x="675.29156"
+     y="217.36621">52</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6414"
+     x="715.29156"
+     y="217.36621">53</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6416"
+     x="755.29156"
+     y="217.36621">54</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6418"
+     x="75.29158"
+     y="217.36621">37</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6420"
+     x="475.2916"
+     y="233.36621">Ag</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6422"
+     x="115.29156"
+     y="233.36621">Sr</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6424"
+     x="155.29158"
+     y="233.36621">Y</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6426"
+     x="195.29158"
+     y="233.36621">Zr</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6428"
+     x="235.29158"
+     y="233.36621">Nb</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6430"
+     x="275.2916"
+     y="233.36621">Mo</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6432"
+     x="315.2916"
+     y="233.36621">Tc</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6434"
+     x="355.2916"
+     y="233.36621">Ru</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6436"
+     x="395.2916"
+     y="233.36621">Rh</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6438"
+     x="435.2916"
+     y="233.36621">Pd</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6440"
+     x="515.29156"
+     y="233.36621">Cd</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6442"
+     x="555.29156"
+     y="233.36621">In</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6444"
+     x="595.29156"
+     y="233.36621">Sn</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6446"
+     x="635.29156"
+     y="233.36621">Sb</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6448"
+     x="675.29156"
+     y="233.36621">Te</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6450"
+     x="715.29156"
+     y="233.36621">I</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6452"
+     x="755.29156"
+     y="233.36621">Xe</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6454"
+     x="75.29158"
+     y="233.36621">Rb</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6456"
+     x="115.29156"
+     y="257.36621">56</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6458"
+     x="195.29158"
+     y="257.36621">72</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6460"
+     x="235.29158"
+     y="257.36621">73</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6462"
+     x="275.2916"
+     y="257.36621">74</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6464"
+     x="315.2916"
+     y="257.36621">75</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6466"
+     x="355.2916"
+     y="257.36621">76</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6468"
+     x="395.2916"
+     y="257.36621">77</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6470"
+     x="435.2916"
+     y="257.36621">78</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6472"
+     x="475.2916"
+     y="257.36621">79</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6474"
+     x="515.29156"
+     y="257.36621">80</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6476"
+     x="555.29156"
+     y="257.36621">81</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6478"
+     x="595.29156"
+     y="257.36621">82</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6480"
+     x="635.29156"
+     y="257.36621">83</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6482"
+     x="675.29156"
+     y="257.36621">84</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6484"
+     x="715.29156"
+     y="257.36621">85</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6486"
+     x="755.29156"
+     y="257.36621">86</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6488"
+     x="75.29158"
+     y="257.36621">55</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6490"
+     x="115.29156"
+     y="273.36621">Ba</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6492"
+     x="195.29158"
+     y="273.36621">Hf</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6494"
+     x="235.29158"
+     y="273.36621">Ta</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6496"
+     x="275.2916"
+     y="273.36621">W</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6498"
+     x="315.2916"
+     y="273.36621">Re</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6500"
+     x="355.2916"
+     y="273.36621">Os</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6502"
+     x="395.2916"
+     y="273.36621">Ir</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6504"
+     x="435.2916"
+     y="273.36621">Pt</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6506"
+     x="475.2916"
+     y="273.36621">Au</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6508"
+     x="515.29156"
+     y="273.36621">Hg</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6510"
+     x="555.29156"
+     y="273.36621">Tl</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6512"
+     x="595.29156"
+     y="273.36621">Pb</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6514"
+     x="635.29156"
+     y="273.36621">Bi</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6516"
+     x="675.29156"
+     y="273.36621">Po</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6518"
+     x="715.29156"
+     y="273.36621">At</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6520"
+     x="755.29156"
+     y="273.36621">Rn</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6522"
+     x="75.29158"
+     y="273.36621">Cs</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6524"
+     x="115.29156"
+     y="297.36621">88</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6526"
+     x="195.29158"
+     y="297.36621">104</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6528"
+     x="235.29158"
+     y="297.36621">105</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6530"
+     x="275.2916"
+     y="297.36621">106</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6532"
+     x="315.2916"
+     y="297.36621">107</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6534"
+     x="355.2916"
+     y="297.36621">108</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6536"
+     x="395.2916"
+     y="297.36621">109</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6538"
+     x="435.2916"
+     y="297.36621">110</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6540"
+     x="475.2916"
+     y="297.36621">111</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6542"
+     x="515.29156"
+     y="297.36621">112</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6544"
+     x="555.29156"
+     y="297.36621">113</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6546"
+     x="595.29156"
+     y="297.36621">114</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6548"
+     x="635.29156"
+     y="297.36621">115</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6550"
+     x="675.29156"
+     y="297.36621">116</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6552"
+     x="715.29156"
+     y="297.36621">117</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6554"
+     x="755.29156"
+     y="297.36621">118</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6556"
+     x="75.29158"
+     y="297.36621">87</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6558"
+     x="275.2916"
+     y="313.36621">Sg</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6560"
+     x="475.2916"
+     y="313.36621">Rg</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6562"
+     x="595.29156"
+     y="313.36621">Fl</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6564"
+     x="635.29156"
+     y="313.36621">Ms</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6566"
+     x="115.29156"
+     y="313.36621">Ra</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6568"
+     x="195.29158"
+     y="313.36621">Rf</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6570"
+     x="235.29158"
+     y="313.36621">Db</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6572"
+     x="315.2916"
+     y="313.36621">Bh</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6574"
+     x="355.2916"
+     y="313.36621">Hs</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6576"
+     x="395.2916"
+     y="313.36621">Mt</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6578"
+     x="435.2916"
+     y="313.36621">Ds</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6580"
+     x="515.29156"
+     y="313.36621">Cn</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6582"
+     x="555.29156"
+     y="313.36621">Nh</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6584"
+     x="675.29156"
+     y="313.36621">Lv</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6586"
+     x="715.29156"
+     y="313.36621">Ts</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6588"
+     x="755.29156"
+     y="313.36621">Og</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     id="text6590"
+     x="75.29158"
+     y="313.36621">Fr</text>
+  <g
+     style="fill:#ffbfff;stroke:#000000;stroke-width:1;"
+     id="lanthanides"
+     transform="translate(136.89158,378.08632)">
+    <path
+       id="path6125"
+       d="M 0,0 V -36 H 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6127"
+       d="M 40,0 V -36 H 76 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6129"
+       d="m 80,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6131"
+       d="m 120,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6133"
+       d="m 160,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6135"
+       d="m 200,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6137"
+       d="m 240,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6139"
+       d="m 280,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6141"
+       d="m 320,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6143"
+       d="m 360,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6145"
+       d="m 400,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6147"
+       d="m 440,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6149"
+       d="m 480,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6151"
+       d="m 520,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6153"
+       d="m 560,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="fill:#ff99cc;stroke:#000000;stroke-width:1;"
+     id="actinidess"
+     transform="translate(136.89158,418.08632)">
+    <path
+       id="path6156"
+       d="M 0,0 V -36 H 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6158"
+       d="M 40,0 V -36 H 76 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6160"
+       d="m 80,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6162"
+       d="m 120,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6164"
+       d="m 160,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6166"
+       d="m 200,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6168"
+       d="m 240,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6170"
+       d="m 280,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6172"
+       d="m 320,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6174"
+       d="m 360,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6176"
+       d="m 400,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6178"
+       d="m 440,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6180"
+       d="m 480,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6182"
+       d="m 520,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6184"
+       d="m 560,0 v -36 h 36 V 0 Z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <text
+     y="356.0863"
+     x="154.89157"
+     id="text6592"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">57</text>
+  <text
+     y="356.0863"
+     x="194.89157"
+     id="text6594"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">58</text>
+  <text
+     y="356.0863"
+     x="234.89157"
+     id="text6596"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">59</text>
+  <text
+     y="356.0863"
+     x="274.89157"
+     id="text6598"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">60</text>
+  <text
+     y="356.0863"
+     x="314.89157"
+     id="text6600"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">61</text>
+  <text
+     y="356.0863"
+     x="354.89157"
+     id="text6602"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">62</text>
+  <text
+     y="356.0863"
+     x="394.89157"
+     id="text6604"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">63</text>
+  <text
+     y="356.0863"
+     x="434.89157"
+     id="text6606"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">64</text>
+  <text
+     y="356.0863"
+     x="474.89157"
+     id="text6608"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">65</text>
+  <text
+     y="356.0863"
+     x="514.8916"
+     id="text6610"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">66</text>
+  <text
+     y="356.0863"
+     x="554.8916"
+     id="text6612"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">67</text>
+  <text
+     y="356.0863"
+     x="594.8916"
+     id="text6614"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">68</text>
+  <text
+     y="356.0863"
+     x="634.8916"
+     id="text6616"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">69</text>
+  <text
+     y="356.0863"
+     x="674.8916"
+     id="text6618"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">70</text>
+  <text
+     y="356.0863"
+     x="714.8916"
+     id="text6620"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">71</text>
+  <text
+     y="372.0863"
+     x="514.8916"
+     id="text6622"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Dy</text>
+  <text
+     y="372.0863"
+     x="154.89157"
+     id="text6624"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">La</text>
+  <text
+     y="372.0863"
+     x="194.89157"
+     id="text6626"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Ce</text>
+  <text
+     y="372.0863"
+     x="234.89157"
+     id="text6628"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Pr</text>
+  <text
+     y="372.0863"
+     x="274.89157"
+     id="text6630"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Nd</text>
+  <text
+     y="372.0863"
+     x="314.89157"
+     id="text6632"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Pm</text>
+  <text
+     y="372.0863"
+     x="354.89157"
+     id="text6634"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Sm</text>
+  <text
+     y="372.0863"
+     x="394.89157"
+     id="text6636"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Eu</text>
+  <text
+     y="372.0863"
+     x="434.89157"
+     id="text6638"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Gd</text>
+  <text
+     y="372.0863"
+     x="474.89157"
+     id="text6640"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Tb</text>
+  <text
+     y="372.0863"
+     x="554.8916"
+     id="text6642"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Ho</text>
+  <text
+     y="372.0863"
+     x="594.8916"
+     id="text6644"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Er</text>
+  <text
+     y="372.0863"
+     x="634.8916"
+     id="text6646"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Tm</text>
+  <text
+     y="372.0863"
+     x="674.8916"
+     id="text6648"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Yb</text>
+  <text
+     y="372.0863"
+     x="714.8916"
+     id="text6650"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Lu</text>
+  <text
+     y="396.0863"
+     x="154.89157"
+     id="text6652"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">89</text>
+  <text
+     y="396.0863"
+     x="194.89157"
+     id="text6654"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">90</text>
+  <text
+     y="396.0863"
+     x="234.89157"
+     id="text6656"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">91</text>
+  <text
+     y="396.0863"
+     x="274.89157"
+     id="text6658"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">92</text>
+  <text
+     y="396.0863"
+     x="314.89157"
+     id="text6660"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">93</text>
+  <text
+     y="396.0863"
+     x="354.89157"
+     id="text6662"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">94</text>
+  <text
+     y="396.0863"
+     x="394.89157"
+     id="text6664"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">95</text>
+  <text
+     y="396.0863"
+     x="434.89157"
+     id="text6666"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">96</text>
+  <text
+     y="396.0863"
+     x="474.89157"
+     id="text6668"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">97</text>
+  <text
+     y="396.0863"
+     x="514.8916"
+     id="text6670"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">98</text>
+  <text
+     y="396.0863"
+     x="554.8916"
+     id="text6672"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">99</text>
+  <text
+     y="396.0863"
+     x="594.8916"
+     id="text6674"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">100</text>
+  <text
+     y="396.0863"
+     x="634.8916"
+     id="text6676"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">101</text>
+  <text
+     y="396.0863"
+     x="674.8916"
+     id="text6678"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">102</text>
+  <text
+     y="396.0863"
+     x="714.8916"
+     id="text6680"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">103</text>
+  <text
+     y="412.0863"
+     x="154.89157"
+     id="text6682"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Ac</text>
+  <text
+     y="412.0863"
+     x="194.89157"
+     id="text6684"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Th</text>
+  <text
+     y="412.0863"
+     x="234.89157"
+     id="text6686"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Pa</text>
+  <text
+     y="412.0863"
+     x="274.89157"
+     id="text6688"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">U</text>
+  <text
+     y="412.0863"
+     x="314.89157"
+     id="text6690"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Np</text>
+  <text
+     y="412.0863"
+     x="354.89157"
+     id="text6692"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Pu</text>
+  <text
+     y="412.0863"
+     x="394.89157"
+     id="text6694"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Am</text>
+  <text
+     y="412.0863"
+     x="434.89157"
+     id="text6696"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Cm</text>
+  <text
+     y="412.0863"
+     x="474.89157"
+     id="text6698"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Bk</text>
+  <text
+     y="412.0863"
+     x="514.8916"
+     id="text6700"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Cf</text>
+  <text
+     y="412.0863"
+     x="554.8916"
+     id="text6702"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Es</text>
+  <text
+     y="412.0863"
+     x="594.8916"
+     id="text6704"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Fm</text>
+  <text
+     y="412.0863"
+     x="634.8916"
+     id="text6706"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Md</text>
+  <text
+     y="412.0863"
+     x="674.8916"
+     id="text6708"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">No</text>
+  <text
+     y="412.0863"
+     x="714.8916"
+     id="text6710"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Lr</text>
+  <g
+     transform="translate(-47.108423,-68.913682)"
+     style="font-size:16px;font-family:'DejaVu Sans Light';text-anchor:end;"
+     id="g6716">
+    <text
+       id="text6718"
+       y="434"
+       x="169"
+       style="line-height:0%;">Lanthanides</text>
+    <text
+       id="text6720"
+       y="472"
+       x="169"
+       style="line-height:0%;">Actinides</text>
+  </g>
+  <g
+     id="g4556"
+     transform="translate(4.0226457,6.1287688)" />
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="74.291588"
+     y="17.034552"
+     id="text6188">1</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="114.29158"
+     y="17.034552"
+     id="text6190">2</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="154.29158"
+     y="17.034552"
+     id="text6192">3</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="194.29158"
+     y="17.034552"
+     id="text6194">4</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="234.29158"
+     y="17.034552"
+     id="text6196">5</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="274.2916"
+     y="17.034552"
+     id="text6198">6</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="314.2916"
+     y="17.034552"
+     id="text6200">7</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="354.2916"
+     y="17.034552"
+     id="text6202">8</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="394.2916"
+     y="17.034552"
+     id="text6204">9</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="434.2916"
+     y="17.034552"
+     id="text6206">10</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="474.2916"
+     y="17.034552"
+     id="text6208">11</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="514.29156"
+     y="17.034552"
+     id="text6210">12</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="554.29156"
+     y="17.034552"
+     id="text6212">13</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="594.29156"
+     y="17.034552"
+     id="text6214">14</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="634.29156"
+     y="17.034552"
+     id="text6216">15</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="674.29156"
+     y="17.034552"
+     id="text6218">16</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="714.29156"
+     y="17.034552"
+     id="text6220">17</text>
+  <text
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     x="754.29156"
+     y="17.034552"
+     id="text6222">18</text>
+</svg>
