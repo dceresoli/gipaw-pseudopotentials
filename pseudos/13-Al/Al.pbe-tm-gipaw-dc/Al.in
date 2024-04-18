@@ -2,7 +2,7 @@
     title = 'Al'
     prefix = 'al'
     zed = 13
-    dft = 'pz'
+    dft = 'pbe'
     rel = 1
     iswitch = 3
     beta = 0.2
@@ -17,7 +17,7 @@
     nlcc = .true.
     file_core = 'al.core'
     rcore = 1.4
-    file_pseudopw = 'Al.pz-tm-gipaw-dc2024.UPF'
+    file_pseudopw = 'Al.pbe-tm-gipaw-dc.UPF'
     author = 'D.C.'
     lgipaw_reconstruction = .true.
  /
