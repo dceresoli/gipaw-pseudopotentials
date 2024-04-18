@@ -13,7 +13,7 @@
    id="svg5929"
    version="1.1"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="Periodic_table.svg">
+   sodipodi:docname="periodic_table.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -476,45 +476,41 @@
        id="path6122"
        inkscape:connector-curvature="0" />
   </g>
-  <g
-     id="g5121"
-     transform="translate(3.9375195,0.18749744)">
-    <text
-       id="text6224"
-       y="66.178726"
-       x="31.354057"
-       style="font-size:16px;line-height:0%;font-family:'DejaVu Sans Light';text-anchor:middle;">1</text>
-    <text
-       id="text6226"
-       y="106.17873"
-       x="31.354057"
-       style="font-size:16px;line-height:0%;font-family:'DejaVu Sans Light';text-anchor:middle;">2</text>
-    <text
-       id="text6228"
-       y="146.17871"
-       x="31.354057"
-       style="font-size:16px;line-height:0%;font-family:'DejaVu Sans Light';text-anchor:middle;">3</text>
-    <text
-       id="text6230"
-       y="186.17871"
-       x="31.354057"
-       style="font-size:16px;line-height:0%;font-family:'DejaVu Sans Light';text-anchor:middle;">4</text>
-    <text
-       id="text6232"
-       y="226.17871"
-       x="31.354057"
-       style="font-size:16px;line-height:0%;font-family:'DejaVu Sans Light';text-anchor:middle;">5</text>
-    <text
-       id="text6234"
-       y="266.17871"
-       x="31.354057"
-       style="font-size:16px;line-height:0%;font-family:'DejaVu Sans Light';text-anchor:middle;">6</text>
-    <text
-       id="text6236"
-       y="306.17871"
-       x="31.354057"
-       style="font-size:16px;line-height:0%;font-family:'DejaVu Sans Light';text-anchor:middle;">7</text>
-  </g>
+  <text
+     id="text6224"
+     y="66.366226"
+     x="35.291576"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">1</text>
+  <text
+     id="text6226"
+     y="106.36623"
+     x="35.291576"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">2</text>
+  <text
+     id="text6228"
+     y="146.36621"
+     x="35.291576"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">3</text>
+  <text
+     id="text6230"
+     y="186.36621"
+     x="35.291576"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">4</text>
+  <text
+     id="text6232"
+     y="226.36621"
+     x="35.291576"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">5</text>
+  <text
+     id="text6234"
+     y="266.36621"
+     x="35.291576"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">6</text>
+  <text
+     id="text6236"
+     y="306.36621"
+     x="35.291576"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">7</text>
   <text
      style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
      id="text6240"
@@ -1825,21 +1821,16 @@
      x="714.8916"
      id="text6710"
      style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:middle;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Lr</text>
-  <g
-     transform="translate(-47.108423,-68.913682)"
-     style="font-size:16px;font-family:'DejaVu Sans Light';text-anchor:end;"
-     id="g6716">
-    <text
-       id="text6718"
-       y="434"
-       x="169"
-       style="line-height:0%;">Lanthanides</text>
-    <text
-       id="text6720"
-       y="472"
-       x="169"
-       style="line-height:0%;">Actinides</text>
-  </g>
+  <text
+     id="text6718"
+     y="365.0863"
+     x="121.89158"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:end;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Lanthanides</text>
+  <text
+     id="text6720"
+     y="403.0863"
+     x="121.89158"
+     style="font-size:16px;line-height:0%;font-family:Arial;text-anchor:end;-inkscape-font-specification:'Arial, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">Actinides</text>
   <g
      id="g4556"
      transform="translate(4.0226457,6.1287688)" />
