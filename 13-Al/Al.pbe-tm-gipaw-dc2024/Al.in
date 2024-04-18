@@ -1,0 +1,38 @@
+&input
+    title = 'Al'
+    prefix = 'al'
+    zed = 13
+    dft = 'pbe'
+    rel = 1
+    iswitch = 3
+    beta = 0.2
+    xmin = -8, dx = 0.01
+    nld = 3, rlderiv = 3.2, eminld  = -5.0, emaxld  = 5.0, deld = 0.002
+    config = '[Ne] 3s2 3p0 3d0 4s0 4p0'
+/
+&inputp
+    pseudotype = 1
+    lloc = 1
+    tm = .true.
+    nlcc = .true.
+    file_core = 'al.core'
+    rcore = 1.4
+    file_pseudopw = 'Al.pbe-tm-gipaw-dc2024.UPF'
+    author = 'D.C.'
+    lgipaw_reconstruction = .true.
+ /
+3
+3D  3  2  0.0  0.00  1.74  1.74
+3S  1  0  2.0  0.00  1.74  1.74
+3P  2  1  0.0  0.00  1.74  1.74
+&test
+   ecutmin = 10
+   ecutmax = 40
+   decut   = 5
+/
+5
+3S  1  0  2.0  0.00  1.74  1.74
+3P  2  1  0.0  0.00  1.74  1.74
+4S  2  0  0.0  0.00  1.74  1.74
+4P  3  1  0.0  0.00  1.74  1.74
+3D  3  2  0.0  0.00  1.74  1.74

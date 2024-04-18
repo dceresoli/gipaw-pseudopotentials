@@ -1,0 +1,249 @@
+
+     Program LD1 v.7.2 starts on 18Apr2024 at 12:17: 3 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+         "P. Giannozzi et al., J. Chem. Phys. 152 154105 (2020);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI), running on     1 processors
+
+     MPI processes distributed on     1 nodes
+     5941 MiB available memory on the printing compute node when the environment starts
+ 
+     Waiting for input...
+     Reading input from standard input
+     --------------------------- All-electron run ----------------------------
+
+     Al                                                                         
+     scalar relativistic calculation
+
+     atomic number is 13.00
+     dft =PBE   lsd =0 sic =0 latt =0  beta=0.20 tr2=1.0E-14
+     Exchange-correlation= PBE
+                           (   1   4   3   4   0   0   0)
+     mesh =1519 r(mesh) = 100.99294 a.u. xmin = -8.00 dx = 0.01000
+     1 Ry =  13.60569312 eV, c = 137.03599908
+
+     n l     nl                  e(Ry)          e(Ha)          e(eV)
+     1 0     1S 1( 2.00)      -111.6910       -55.8455     -1519.6337
+     2 0     2S 1( 2.00)        -8.5628        -4.2814      -116.5025
+     2 1     2P 1( 6.00)        -5.7323        -2.8661       -77.9919
+     3 0     3S 1( 2.00)        -1.0885        -0.5443       -14.8104
+     3 1     3P 1( 0.00)        -0.6654        -0.3327        -9.0536
+     3 2     3D 1( 0.00)        -0.2292        -0.1146        -3.1191
+     4 0     4S 1( 0.00)        -0.2775        -0.1388        -3.7760
+     4 1     4P 1( 0.00)        -0.1816        -0.0908        -2.4709
+
+     final scf error:  7.0E-15 reached in  37 iterations
+ 
+     Etot =    -484.946753 Ry,    -242.473377 Ha,   -6598.036703 eV
+
+     Ekin =     485.862624 Ry,     242.931312 Ha,    6610.497768 eV
+     Encl =   -1152.766974 Ry,    -576.383487 Ha,  -15684.193684 eV
+     Eh   =     218.448487 Ry,     109.224243 Ha,    2972.143074 eV
+     Exc  =     -36.490891 Ry,     -18.245445 Ha,    -496.483861 eV
+
+
+     normalization and overlap integrals
+
+     s(1S/1S) =  1.000000  <r> =   0.1202  <r2> =    0.0195  r(max) =   0.0785
+     s(1S/2S) = -0.000658
+     s(1S/3S) = -0.000179
+     s(1S/4S) = -0.000079
+     s(2S/2S) =  1.000000  <r> =   0.6258  <r2> =    0.4697  r(max) =   0.4941
+     s(2S/3S) = -0.000088
+     s(2S/4S) = -0.000038
+     s(2P/2P) =  1.000000  <r> =   0.6029  <r2> =    0.4623  r(max) =   0.4296
+     s(2P/3P) = -0.000060
+     s(2P/4P) = -0.000026
+     s(3S/3S) =  1.000000  <r> =   2.3768  <r2> =    6.5176  r(max) =   2.0239
+     s(3S/4S) = -0.000016
+     s(3P/3P) =  1.000000  <r> =   2.9058  <r2> =    9.8640  r(max) =   2.3990
+     s(3P/4P) = -0.000010
+     s(3D/3D) =  1.000000  <r> =   4.8841  <r2> =   28.3883  r(max) =   3.9950
+     s(4S/4S) =  1.000000  <r> =   6.1860  <r2> =   43.4230  r(max) =   5.6128
+     s(4P/4P) =  1.000000  <r> =   7.8876  <r2> =   71.2384  r(max) =   7.0643
+
+     ------------------------ End of All-electron run ------------------------
+
+
+     --------------------- Generating NC pseudopotential ---------------------
+
+
+      Generating local pot.: lloc=1, matching radius rcloc =   1.7400
+
+      Computing core charge for nlcc: 
+
+       r > 1.41 : true rho core
+       r < 1.41 : rho core = a sin(br)/r    a=   1.20  b=   1.94
+
+      ***Writing file al.core ***
+      Integrated core pseudo-charge :   1.08
+
+
+      Wfc   3D  rcut= 1.742  Using Troullier-Martins method 
+
+
+      Wfc   3S  rcut= 1.742  Using Troullier-Martins method 
+
+      The bmat matrix
+    -0.04771     0.00000
+     0.00000     0.08918
+
+     ------------------- End of pseudopotential generation -------------------
+
+     --------------------------- All-electron run ----------------------------
+
+     Al                                                                         
+     scalar relativistic calculation
+
+     atomic number is 13.00
+     dft =PBE   lsd =0 sic =0 latt =0  beta=0.20 tr2=1.0E-14
+     Exchange-correlation= PBE
+                           (   1   4   3   4   0   0   0)
+     mesh =1519 r(mesh) = 100.99294 a.u. xmin = -8.00 dx = 0.01000
+     1 Ry =  13.60569312 eV, c = 137.03599908
+
+     n l     nl                  e(Ry)          e(Ha)          e(eV)
+     1 0     1S 1( 2.00)      -111.6910       -55.8455     -1519.6337
+     2 0     2S 1( 2.00)        -8.5628        -4.2814      -116.5025
+     2 1     2P 1( 6.00)        -5.7323        -2.8661       -77.9919
+     3 0     3S 1( 2.00)        -1.0885        -0.5443       -14.8104
+     3 1     3P 1( 0.00)        -0.6654        -0.3327        -9.0536
+     3 2     3D 1( 0.00)        -0.2292        -0.1146        -3.1191
+     4 0     4S 1( 0.00)        -0.2775        -0.1388        -3.7760
+     4 1     4P 1( 0.00)        -0.1816        -0.0908        -2.4709
+
+     final scf error:  7.0E-15 reached in  37 iterations
+ 
+     Etot =    -484.946753 Ry,    -242.473377 Ha,   -6598.036703 eV
+
+     Ekin =     485.862624 Ry,     242.931312 Ha,    6610.497768 eV
+     Encl =   -1152.766974 Ry,    -576.383487 Ha,  -15684.193684 eV
+     Eh   =     218.448487 Ry,     109.224243 Ha,    2972.143074 eV
+     Exc  =     -36.490891 Ry,     -18.245445 Ha,    -496.483861 eV
+
+
+     normalization and overlap integrals
+
+     s(1S/1S) =  1.000000  <r> =   0.1202  <r2> =    0.0195  r(max) =   0.0785
+     s(1S/2S) = -0.000658
+     s(1S/3S) = -0.000179
+     s(1S/4S) = -0.000079
+     s(2S/2S) =  1.000000  <r> =   0.6258  <r2> =    0.4697  r(max) =   0.4941
+     s(2S/3S) = -0.000088
+     s(2S/4S) = -0.000038
+     s(2P/2P) =  1.000000  <r> =   0.6029  <r2> =    0.4623  r(max) =   0.4296
+     s(2P/3P) = -0.000060
+     s(2P/4P) = -0.000026
+     s(3S/3S) =  1.000000  <r> =   2.3768  <r2> =    6.5176  r(max) =   2.0239
+     s(3S/4S) = -0.000016
+     s(3P/3P) =  1.000000  <r> =   2.9058  <r2> =    9.8640  r(max) =   2.3990
+     s(3P/4P) = -0.000010
+     s(3D/3D) =  1.000000  <r> =   4.8841  <r2> =   28.3883  r(max) =   3.9950
+     s(4S/4S) =  1.000000  <r> =   6.1860  <r2> =   43.4230  r(max) =   5.6128
+     s(4P/4P) =  1.000000  <r> =   7.8876  <r2> =   71.2384  r(max) =   7.0643
+
+     ------------------------ End of All-electron run ------------------------
+
+     Computing logarithmic derivative in   3.19013
+
+       Warning: n=2, l=0 expected 1 nodes, found 0
+       Setting wfc to zero for this iteration
+       (This warning will only be printed once per wavefunction)
+
+
+       Warning: n=3, l=1 expected 1 nodes, found 0
+       Setting wfc to zero for this iteration
+       (This warning will only be printed once per wavefunction)
+
+     Computing logarithmic derivative in   3.19013
+     Computing the partial wave expansion 
+     R is outside the sphere for l=    0 j= 0.00
+       no projector for channel:   1
+     R is outside the sphere for l=    2 j= 0.00
+
+     ---------------------- Testing the pseudopotential ----------------------
+
+     Al                                                                         
+     scalar relativistic calculation
+
+     atomic number is 13.00   valence charge is  3.00
+     dft =PBE   lsd =0 sic =0 latt =0  beta=0.20 tr2=1.0E-14
+     mesh =1519 r(mesh) = 100.99294 xmin = -8.00 dx = 0.01000
+
+     n l     nl             e AE (Ry)        e PS (Ry)    De AE-PS (Ry) 
+     1 0     3S   1( 2.00)       -1.08854       -1.08854        0.00000
+     2 1     3P   1( 0.00)       -0.66543       -0.66543       -0.00000
+     2 0     4S   1( 0.00)       -0.27753       -0.27753        0.00000
+     3 1     4P   1( 0.00)       -0.18161       -0.18161        0.00000
+     3 2     3D   1( 0.00)       -0.22925       -0.22924       -0.00001
+
+     eps = 5.8E-17  iter =  4
+ 
+     Etot =    -484.946753 Ry,    -242.473377 Ha,   -6598.036703 eV
+     Etotps =    -4.312918 Ry,      -2.156459 Ha,     -58.680237 eV
+
+     Ekin =       0.856345 Ry,       0.428173 Ha,      11.651174 eV
+     Encl =      -5.076603 Ry,      -2.538302 Ha,     -69.070706 eV
+     Ehrt =       1.513032 Ry,       0.756516 Ha,      20.585849 eV
+     Ecxc =      -1.784047 Ry,      -0.892024 Ha,     -24.273200 eV
+     (Ecc =      -0.819045 Ry,      -0.409522 Ha,     -11.143672 eV)
+     Epseu=       0.178355 Ry,       0.089178 Ha,       2.426646 eV
+
+     ---------------------- End of pseudopotential test ----------------------
+
+
+     -------------- Test with a basis set of Bessel functions ----------
+
+     Box size (a.u.) :   30.0
+
+     Cutoff (Ry) :   10.0
+                           N = 1       N = 2       N = 3
+     E(L=0) =        -1.0845 Ry   -0.2771 Ry   -0.1095 Ry
+     E(L=1) =        -0.6605 Ry   -0.1807 Ry   -0.0825 Ry
+     E(L=2) =        -0.2251 Ry   -0.0875 Ry   -0.0348 Ry
+
+     Cutoff (Ry) :   15.0
+                           N = 1       N = 2       N = 3
+     E(L=0) =        -1.0864 Ry   -0.2777 Ry   -0.1097 Ry
+     E(L=1) =        -0.6607 Ry   -0.1807 Ry   -0.0826 Ry
+     E(L=2) =        -0.2269 Ry   -0.0879 Ry   -0.0353 Ry
+
+     Cutoff (Ry) :   20.0
+                           N = 1       N = 2       N = 3
+     E(L=0) =        -1.0869 Ry   -0.2778 Ry   -0.1097 Ry
+     E(L=1) =        -0.6621 Ry   -0.1811 Ry   -0.0827 Ry
+     E(L=2) =        -0.2282 Ry   -0.0882 Ry   -0.0356 Ry
+
+     Cutoff (Ry) :   25.0
+                           N = 1       N = 2       N = 3
+     E(L=0) =        -1.0879 Ry   -0.2780 Ry   -0.1097 Ry
+     E(L=1) =        -0.6638 Ry   -0.1815 Ry   -0.0828 Ry
+     E(L=2) =        -0.2288 Ry   -0.0883 Ry   -0.0358 Ry
+
+     Cutoff (Ry) :   30.0
+                           N = 1       N = 2       N = 3
+     E(L=0) =        -1.0884 Ry   -0.2781 Ry   -0.1097 Ry
+     E(L=1) =        -0.6648 Ry   -0.1817 Ry   -0.0829 Ry
+     E(L=2) =        -0.2292 Ry   -0.0884 Ry   -0.0359 Ry
+
+     Cutoff (Ry) :   35.0
+                           N = 1       N = 2       N = 3
+     E(L=0) =        -1.0886 Ry   -0.2782 Ry   -0.1098 Ry
+     E(L=1) =        -0.6653 Ry   -0.1818 Ry   -0.0829 Ry
+     E(L=2) =        -0.2293 Ry   -0.0884 Ry   -0.0359 Ry
+
+     Cutoff (Ry) :   40.0
+                           N = 1       N = 2       N = 3
+     E(L=0) =        -1.0886 Ry   -0.2782 Ry   -0.1098 Ry
+     E(L=1) =        -0.6654 Ry   -0.1819 Ry   -0.0829 Ry
+     E(L=2) =        -0.2293 Ry   -0.0884 Ry   -0.0359 Ry
+
+     -------------- End of Bessel function test ------------------------
+
