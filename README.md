@@ -81,7 +81,7 @@ Most of them are norm-conserving pseudos are require a very high plane wave cuto
 <tr align="center">
 <td style="width:5%">55<br>Cs</td>
 <td style="width:5%">56<br>Ba</td>
-<td style="width:5%">71<br>Lu</td>
+<td style="width:5%"><br></td>
 <td style="width:5%">72<br>Hf</td>
 <td style="width:5%">73<br>Ta</td>
 <td style="width:5%">74<br>W</td>
@@ -120,7 +120,7 @@ Most of them are norm-conserving pseudos are require a very high plane wave cuto
 </tr>
 
 <tr align="center">
-<td colspan="2" style="width:5%"><br></td>
+<td colspan="3" style="width:5%"><br></td>
 <td style="width:5%">57<br><a href="./pseudos/57-La" title="lanthanum">La</a></td>
 <td style="width:5%">58<br><a href="./pseudos/58-Ce" title="cerium">Ce</a></td>
 <td style="width:5%">59<br><a href="./pseudos/59-Pr" title="praseodimium">Pr</a></td>
@@ -135,6 +135,7 @@ Most of them are norm-conserving pseudos are require a very high plane wave cuto
 <td style="width:5%">68<br><a href="./pseudos/68-Er" title="erbium">Er</a></td>
 <td style="width:5%">69<br><a href="./pseudos/69-Tm" title="thulium">Tm</a></td>
 <td style="width:5%">70<br><a href="./pseudos/70-Yb" title="ytterbium">Yb</a></td>
+<td style="width:5%">71<br><a href="./pseudos/71-Lu" title="lutetium">Lu</a></td>
 </tr>
 
 <tr align="center">
