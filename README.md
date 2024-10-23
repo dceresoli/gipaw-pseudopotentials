@@ -121,20 +121,20 @@ Most of them are norm-conserving pseudos are require a very high plane wave cuto
 
 <tr align="center">
 <td colspan="2" style="width:5%"><br></td>
-<td style="width:5%">57<br><a href="./pseudos/13-Al" title="aluminum">La</a></td>
-<td style="width:5%">58<br>Ce</td>
-<td style="width:5%">59<br>Pr</td>
-<td style="width:5%">60<br>Nd</td>
-<td style="width:5%">61<br>Pm</td>
-<td style="width:5%">62<br>Sm</td>
-<td style="width:5%">63<br>Eu</td>
-<td style="width:5%">64<br>Gd</td>
-<td style="width:5%">65<br>Tb</td>
-<td style="width:5%">66<br>Dy</td>
-<td style="width:5%">67<br>Ho</td>
-<td style="width:5%">68<br>Er</td>
-<td style="width:5%">69<br>Tm</td>
-<td style="width:5%">70<br>Yb</td>
+<td style="width:5%">57<br><a href="./pseudos/57-La" title="lanthanum">La</a></td>
+<td style="width:5%">58<br><a href="./pseudos/58-Ce" title="cerium">Ce</a></td>
+<td style="width:5%">59<br><a href="./pseudos/59-Pr" title="praseodimium">Pr</a></td>
+<td style="width:5%">60<br><a href="./pseudos/60-Nd" title="neodimium">Nd</a></td>
+<td style="width:5%">61<br><a href="./pseudos/61-Pm" title="promethium">Pm</a></td>
+<td style="width:5%">62<br><a href="./pseudos/62-Sm" title="samarium">Sm</a></td>
+<td style="width:5%">63<br><a href="./pseudos/63-Eu" title="europium">Eu</a></td>
+<td style="width:5%">64<br><a href="./pseudos/64-Gd" title="gadolinium">Gd</a></td>
+<td style="width:5%">65<br><a href="./pseudos/65-Tb" title="terbium">Tb</a></td>
+<td style="width:5%">66<br><a href="./pseudos/66-Dy" title="dysprosium">Dy</a></td>
+<td style="width:5%">67<br><a href="./pseudos/67-Ho" title="holmium">Ho</a></td>
+<td style="width:5%">68<br><a href="./pseudos/68-Er" title="erbium">Er</a></td>
+<td style="width:5%">69<br><a href="./pseudos/69-Tm" title="thulium">Tm</a></td>
+<td style="width:5%">70<br><a href="./pseudos/70-Yb" title="ytterbium">Yb</a></td>
 </tr>
 
 <tr align="center">
