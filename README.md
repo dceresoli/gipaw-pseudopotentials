@@ -28,7 +28,7 @@ Most of them are norm-conserving pseudos are require a very high plane wave cuto
 <td style="width:5%">11<br>Na</td>
 <td style="width:5%">12<br>Mg</td>
 <td colspan="10" style="width:5%"><br></td>
-<td style="width:5%">13<br><a href="./pseudos/13-Al" title="aluminum">Al</td>
+<td style="width:5%">13<br><a href="./pseudos/13-Al" title="aluminum">Al</a></td>
 <td style="width:5%">14<br>Si</td>
 <td style="width:5%">15<br>P</td>
 <td style="width:5%">16<br>S</td>
@@ -121,7 +121,7 @@ Most of them are norm-conserving pseudos are require a very high plane wave cuto
 
 <tr align="center">
 <td colspan="2" style="width:5%"><br></td>
-<td style="width:5%">57<br>La</td>
+<td style="width:5%">57<br><a href="./pseudos/13-Al" title="aluminum">La</a></td>
 <td style="width:5%">58<br>Ce</td>
 <td style="width:5%">59<br>Pr</td>
 <td style="width:5%">60<br>Nd</td>
