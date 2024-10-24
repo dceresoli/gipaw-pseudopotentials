@@ -102,7 +102,7 @@ Most of them are norm-conserving pseudos are require a very high plane wave cuto
 <tr align="center">
 <td style="width:5%">87<br>Fr</td>
 <td style="width:5%">88<br>Ra</td>
-<td style="width:5%">103<br>Lr</td>
+<td style="width:5%"><br></td>
 <td style="width:5%">104<br>Rf</td>
 <td style="width:5%">105<br>Db</td>
 <td style="width:5%">106<br>Sg</td>
@@ -139,7 +139,7 @@ Most of them are norm-conserving pseudos are require a very high plane wave cuto
 </tr>
 
 <tr align="center">
-<td colspan="2" style="width:5%"><br></td>
+<td colspan="3" style="width:5%"><br></td>
 <td style="width:5%">89<br>Ac</td>
 <td style="width:5%">90<br>Th</td>
 <td style="width:5%">91<br>Pa</td>
@@ -154,6 +154,7 @@ Most of them are norm-conserving pseudos are require a very high plane wave cuto
 <td style="width:5%">100<br>Fm</td>
 <td style="width:5%">101<br>Md</td>
 <td style="width:5%">102<br>No</td>
+<td style="width:5%">103<br>Lr</td>
 </tr>
 </tbody>
 </table>
