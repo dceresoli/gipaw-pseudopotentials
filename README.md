@@ -163,7 +163,7 @@ File name breakdown:
 * pz, blyp, pw91, pbe: XC functional
 * tm: norm-conserving, Martins Trouillier method
 * rrkj: norm-conseriving, RRKJ method
-*  rrkjus: ultrasoft, RRJK method
+* rrkjus: ultrasoft, RRKJ method
 * paw: PAW
 * gipaw: with GIPAW reconstruction
 * semi: with semicore orbitals
